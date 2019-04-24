@@ -1,16 +1,19 @@
-# fswd_linux_configuration
- Project: Linux Server Configuration
-
-
+# Project: Linux Server Configuration
+ 
 URL & IP Address:
+```
 IP Address: 13.234.34.112
 Public URL: http://13.234.34.112.xip.io/
+```
 
 PORT: 2200
 
 User: grader
 
-Login Key -> ssh -i udacity_key.rsa grader@13.234.34.112 -p 2200
+Login Key: 
+```
+-> ssh -i udacity_key.rsa grader@13.234.34.112 -p 2200
+```
 
 Softwares Used:
 Openssh Server
