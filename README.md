@@ -15,6 +15,9 @@ Login Key:
 -> ssh -i udacity_key.rsa grader@13.234.34.112 -p 2200
 ```
 
+## passphrase for grader ssh RSA key
+udacity123
+
 Softwares Used:
 Openssh Server
 Apache2
