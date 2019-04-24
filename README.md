@@ -237,3 +237,11 @@ $ sudo service apache2 restart
 
 WHOLA! Your server is now up and your flask app has now started to run. Visit the URL -> http://13.234.34.112.xip.io/ to see the site. Login to perform CRUD operations.
 
+
+## References
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+
+## Thanks mentor
+Daniel A.
+
+
